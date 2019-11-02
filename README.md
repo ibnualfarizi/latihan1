@@ -9,10 +9,10 @@ proyek yang dikerjakan oleh banyak orang maupun sendiri.
 artinya penyimpanan database Git tidak hanya berada dalam satu
 tempat saja.
 Instalasi Git
-* Download Git, buka website resminya Git [git-scm.com](https://git-scm.com "enakk nihh")
+* Download Git, buka website resminya Git [git-scm.com](https://git-scm.com "aa'nhue")
 * Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau
 menggunakan 64bit, unduh yang 64bit. Begitu juga kalau
 menggunakan 32bit. 
 * Selamat, Git sudah terinstal di Windows. Untuk mencobanya,
 silahkan buka CMD atau PowerShell, kemudian ketik perintah
-git --version
+``git --version``
