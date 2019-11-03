@@ -47,7 +47,8 @@ $ echo “#Latihan 1” >> README.md
 
 # Commit (Menyimpan perubahan ke database)
 * Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”
-* Perubahan berhasil disimpan. $ git commit -m “File pertama saya"
+* Perubahan berhasil disimpan. 
+$ git commit -m “File pertama saya"
 # Membuat repository server
 * Server reopsitory yang akan kita gunakan adalah http://github.com 
 * Anda harus membuat akun terlebih dahulu. 
